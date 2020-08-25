@@ -1,4 +1,3 @@
 <?php
-	echo "haii";
-echo "heiii";
+	echo "hai friends";
 ?>
